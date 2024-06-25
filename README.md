@@ -33,7 +33,7 @@ Each directory contains the necessary files and instructions to use the blueprin
 
 ### Video Tutorial
 
-In this [video](https://www.loom.com/share/9d4d16885b224e8e8d9bfee083450f5a?sid=922977c2-c221-4c49-bd39-4d3a94b2c045) you will find the details on how to import your blueprint on Make
+In this [video](https://www.loom.com/share/a8b018c8c9964386bc347082f938189b?sid=adb80652-b3fa-4ede-a475-dab2cff0bbe5) you will find the details on how to import your blueprint on Make
 
 ## Contributing
 
