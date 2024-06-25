@@ -55,5 +55,5 @@ We welcome contributions! If you have a blueprint you would like to share, pleas
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE]((https://github.com/polyanademery/make-blueprints/blob/main/LICENSE)) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/polyanademery/make-blueprints/blob/main/LICENSE) file for details.
 
