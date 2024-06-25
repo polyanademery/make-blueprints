@@ -12,7 +12,7 @@ Welcome to the Blueprints Repository. This repository contains a collection of b
 The repository is organized into the following directories:
 
 - **Dollar Update**: Blueprints related to fetching and updating exchange rate information.
-- **[Your Other Directories]**: Add descriptions for other directories as you add them.
+- **README.md**: Readme document with the instructions to use the scenario.
 
 Each directory contains the necessary files and instructions to use the blueprints effectively.
 
@@ -24,18 +24,16 @@ Each directory contains the necessary files and instructions to use the blueprin
 
 ### Steps
 
-1. **Clone the Repository**:
-   ```sh
-   git clone https://github.com/[YourGitHubUsername]/blueprints-repository.git
-   ```
+1. **Download the blueprint file**:
 
-2. **Navigate to the Blueprint Directory**:
-   ```sh
-   cd blueprints-repository/[Blueprint-Directory]
-   ```
+2. **Open a new scenario on make**:
 
-3. **Follow the README Instructions**:
-   - Each blueprint directory contains a README file with detailed instructions on how to import and use the blueprint in Make.com.
+3. **Click "Import Blueprint" on the bottom of the page**:
+   - Each blueprint directory contains a README file with detailed instructions on the tasks performed by the scenario in Make.com.
+
+### Video Tutorial
+
+In this [video](https://www.loom.com/share/9d4d16885b224e8e8d9bfee083450f5a?sid=922977c2-c221-4c49-bd39-4d3a94b2c045) you will find the details on how to import your blueprint on Make
 
 ## Contributing
 
